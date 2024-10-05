@@ -1,16 +1,14 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wyt-yutongwu](https://img.shields.io/badge/yutongwu-github-blue%3Flogo%3Dgithub?logo=github&color=blue)](https://github.com/wyt-yutongwu)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am a Computer Science Ph.D. student at Rice University, advised by Dr. [Arlei Silva](https://profiles.rice.edu/faculty/arlei-silva). Before joinning Rice, I obtained a Bachelor's degree in Computational Mathematics at [Rochester Institute of Technology (RIT)](https://www.rit.edu/) in Rochester, NY.
 
 #### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+yw180[at]rice.edu
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Network Science, Machine Learning, and their application to Social Science.
 
+### CV
+You can access my CV [here](/static/assets/files/cv.pdf).
