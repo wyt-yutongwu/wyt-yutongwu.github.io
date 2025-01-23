@@ -13,3 +13,7 @@ I am broadly interested in Computational Social Science, specifically the study 
 ### CV
 You can access my CV [here](/static/assets/files/cv.pdf).
 
+### Services
+Teaching Assistant for COMP 614, 2024 Fall, Rice University
+
+Teaching Assistant for COMP 559, 2025 Spring, Rice University
