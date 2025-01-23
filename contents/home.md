@@ -13,4 +13,3 @@ I am broadly interested in **Computational Social Science**, specifically the st
 
 #### CV
 You can access my CV [here](/static/assets/files/cv.pdf).
-
