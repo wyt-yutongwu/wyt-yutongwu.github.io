@@ -15,5 +15,5 @@ I am broadly interested in **Computational Social Science**, specifically the st
 You can access my CV [here](/static/assets/files/cv.pdf).
 
 ### Services
-- Teaching Assistant for COMP 614, Rice University
-- Teaching Assistant for COMP 559, 2025 Spring, Rice University
+- Teaching Assistant for **COMP 614: Programming for Data Science**, Rice University,*2024 Fall*
+- Teaching Assistant for **COMP 559: Graph Machine Learning**, Rice University, *2025 Spring*
