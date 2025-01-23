@@ -8,7 +8,8 @@ I am a Computer Science Ph.D. student at [Rice University](https://www.rice.edu/
 yw180[at]rice.edu
 
 #### Research Interests
-Network Science, Machine Learning, and their application to Social Science.
+I am broadly interested in Computational Social Science, specifically the study of cooperation and competition. I am also interested in Social Networks and Graph Machine Learning.
 
 ### CV
 You can access my CV [here](/static/assets/files/cv.pdf).
+
