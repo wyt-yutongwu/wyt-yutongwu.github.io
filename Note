@@ -1,0 +1,5 @@
+To add a section, need to change:
+static/js/scripts.js Line 5
+line 100 index.html
+line 169 index.html
+line 99 misc.html
