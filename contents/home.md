@@ -1,4 +1,5 @@
 **Email:** yw180[at]rice.edu
+
 <a href="https://github.com/wyt-yutongwu"><img src="/static/assets/img/github.jpg" alt="Github" width="25"/></a>
 <a href="https://scholar.google.com/citations?user=6v-OMuYAAAAJ&hl=en"><img src="/static/assets/img/Google_Scholar_logo.svg.png" alt="Google Scholar" width="25"/></a>
 <a href="https://www.linkedin.com/in/yutong-wu-b402191b9/"><img src="/static/assets/img/linkedin.png" alt="LinkedIn" width="25"/></a>
