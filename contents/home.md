@@ -1,7 +1,7 @@
 
 
 [![wyt-yutongwu](https://img.shields.io/badge/yutongwu-github-blue%3Flogo%3Dgithub?logo=github&color=blue)](https://github.com/wyt-yutongwu)
-[![](/static/assets/img/Google_Scholar_logo.svg.png)][https://scholar.google.com/citations?user=6v-OMuYAAAAJ&hl=en]
+[![](/static/assets/img/Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=6v-OMuYAAAAJ&hl=en)
 
 I am a Computer Science Ph.D. student at [Rice University](https://www.rice.edu/), advised by Dr. [Arlei Silva](https://profiles.rice.edu/faculty/arlei-silva). Before joinning Rice, I obtained a Bachelor's degree in Computational Mathematics at [Rochester Institute of Technology (RIT)](https://www.rit.edu/) in Rochester, NY.
 
@@ -14,6 +14,3 @@ I am broadly interested in **Computational Social Science**, specifically the st
 ### CV
 You can access my CV [here](/static/assets/files/cv.pdf).
 
-### Services
-- Teaching Assistant for **COMP 614: Programming for Data Science**, Rice University, *2024 Fall*
-- Teaching Assistant for **COMP 559: Graph Machine Learning**, Rice University, *2025 Spring*
