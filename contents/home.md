@@ -1,7 +1,7 @@
 
 
-[![wyt-yutongwu](https://img.shields.io/badge/yutongwu-github-blue%3Flogo%3Dgithub?logo=github&color=blue =100x20)](https://github.com/wyt-yutongwu)
-[![](/static/assets/img/Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=6v-OMuYAAAAJ&hl=en)
+[![wyt-yutongwu](https://img.shields.io/badge/yutongwu-github-blue%3Flogo%3Dgithub?logo=github&color=blue)](https://github.com/wyt-yutongwu)
+<a href="https://scholar.google.com/citations?user=6v-OMuYAAAAJ&hl=en"><img src="/static/assets/img/Google_Scholar_logo.svg.png" alt="Google Scholar" width="200"/>
 
 I am a Computer Science Ph.D. student at [Rice University](https://www.rice.edu/), advised by Dr. [Arlei Silva](https://profiles.rice.edu/faculty/arlei-silva). Before joinning Rice, I obtained a Bachelor's degree in Computational Mathematics at [Rochester Institute of Technology (RIT)](https://www.rit.edu/) in Rochester, NY.
 
