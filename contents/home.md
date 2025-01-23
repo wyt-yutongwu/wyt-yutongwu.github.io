@@ -8,7 +8,7 @@
 I am a Computer Science Ph.D. student at [Rice University](https://www.rice.edu/), advised by Dr. [Arlei Silva](https://profiles.rice.edu/faculty/arlei-silva). Before joinning Rice, I obtained a Bachelor's degree in Computational Mathematics at [Rochester Institute of Technology (RIT)](https://www.rit.edu/) in Rochester, NY.
 
 #### Email
-yw180[at]rice.edu
+yw180[at]rice[dot]edu
 
 #### Research Interests
 I am broadly interested in **Computational Social Science**, specifically the study of cooperation and competition. I am also interested in Social Networks and Graph Machine Learning.
