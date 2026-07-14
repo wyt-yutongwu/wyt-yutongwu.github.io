@@ -9,7 +9,7 @@
 I am a Computer Science Ph.D. student at [Rice University](https://csweb.rice.edu/), advised by Dr. [Arlei Silva](https://profiles.rice.edu/faculty/arlei-silva). Before joinning Rice, I obtained my B.Sc. in Computational Mathematics at [Rochester Institute of Technology (RIT)](https://www.rit.edu/study/computational-mathematics-bs) in Rochester, NY.
 
 #### Research Interests
-I am broadly interested in **Computational Social Science**, specifically the study of cooperation and competition. I am also interested in Social Networks and Graph Machine Learning.
+I am broadly interested in **Computational Social Science**, specifically in agent alignment, studying how to align agent behavior with human values and sustain cooperation within human societies, among AI agents, and in human-agent interactions
 
 #### CV
 You can access my CV [here](/static/assets/files/cv.pdf).
