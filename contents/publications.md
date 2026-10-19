@@ -1,4 +1,4 @@
-- <strong>Y. Wu</strong>, A. Silva (2024). [Gossip Agents: Reputation through Opinion Dynamics over Evolving Networks](https://arxiv.org/abs/2610.22674). <strong>Preprint.</strong> [[Code]](https://github.com/wyt-yutongwu/Gossip_Agent)
+- <strong>Y. Wu</strong>, A. Silva (2026). [Gossip Agents: Reputation through Opinion Dynamics over Evolving Networks](https://arxiv.org/abs/2610.22674). <strong>Preprint.</strong> [[Code]](https://github.com/wyt-yutongwu/Gossip_Agent)
 
 - <strong>Y. Wu</strong>, A. Silva (2024). [Large-scale Collective Dynamics in the Three Iterations of the Reddit r/place Experiment](https://arxiv.org/abs/2408.13236). <strong>Preprint.</strong> [[Code]](https://github.com/wyt-yutongwu/r-place)
 
